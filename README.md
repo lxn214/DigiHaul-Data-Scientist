@@ -19,7 +19,7 @@ Repository Contents
 •	requirements.txt - A list of Python libraries required to run the code.
 Setup and Installation
 To set up this project locally, follow these steps:
-1.	Clone the repository:
+1.	Clone the repository:https://github.com/lxn214/DigiHaul-Data-Scientist
 2.	Navigate to the project directory: 
 cd delivery-timeliness-analysis 
 3.	Install the required Python libraries:
